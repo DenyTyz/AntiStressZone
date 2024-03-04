@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'denyy#3604'
+author 'DenyTyz'
 description 'anti stress zone'
 
 share_script {
